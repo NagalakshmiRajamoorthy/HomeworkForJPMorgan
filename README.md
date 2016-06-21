@@ -2,6 +2,7 @@
 Java code for simple stock market
 
 1. How to Run the application?
+
 Download bin.zip file. Unzip it. Goto bin folder.
 execute following command.
 java SimpleStockMarket
